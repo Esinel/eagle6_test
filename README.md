@@ -9,5 +9,4 @@ Developed in Spring Boot, Swagger for API documentation, Cache solution : ehcach
 
 NOTES:
 
--API SwaggerUI interface accessible at http://localhost:8080/swagger-ui.html (change port if necessary)
--
+- After starting the server API SwaggerUI interface will be accessible at http://localhost:8080/swagger-ui.html (change port if necessary)
